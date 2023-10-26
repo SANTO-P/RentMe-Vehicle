@@ -19,6 +19,8 @@ Furthermore, it provides the functionality for searching the database (built in 
 
 For detailed API documentation, you can refer to our [Swagger API Documentation](https://petstore.swagger.io/).
 
+## Customer Endpoints
+
 ## Vehicle Endpoints
 
 The following are the REST endpoints related to vehicle management:
